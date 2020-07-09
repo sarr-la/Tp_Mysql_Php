@@ -7,7 +7,7 @@
  </head>
 <body>
 
-    <form method="post" action = "../controller/formtypeCompte.php" id="formtypecompte">
+    <form method="post" action = "../controller/ControllerformtypeCompte.php" id="formtypecompte">
 
 <fieldset id="yakhine">
     <legend id="legendtypecompte">
